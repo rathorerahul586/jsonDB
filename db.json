@@ -2,9 +2,7 @@
  "isSuccess":true,
  "message":"my message",
  "offers": {
-   "25%": [
-     {
-       "vendor1": "name1",
+  "vendor1": "name1",
        "subCategory": "Italian",
        "rating": "5",
        "distance":"1km",
@@ -13,19 +11,5 @@
        "validTill":"06-Feb-2020",
        "location":"28.6184652,77.374919",
        "offer":"25% OFF"
-     },
-     { "vendor2": "name2" },
-     { "vendor3": "name3" }
-     ] ,
-   "50%": [
-     {
-       "vendor1": "name1",
-       "subCategory": "Italian",
-       "rating": "5",
-       "distance":"1km"
-     },
-     { "vendor2": "name2" },
-     { "vendor3": "name3" }
-     ]
  }
 }
